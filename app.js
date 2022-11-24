@@ -1,5 +1,5 @@
 const express = require('express');
-const { user } = require('./user.js');
+const { user } = require('./data/user.js');
 
 const app = express();
 app.use(express.json());
