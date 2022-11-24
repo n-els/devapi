@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "first time going to deployment steps for an express api",
   "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
