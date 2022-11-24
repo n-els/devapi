@@ -1,0 +1,19 @@
+{
+  "name": "devapi",
+  "version": "0.0.1",
+  "description": "first time going to deployment steps for an express api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-els/devapi.git"
+  },
+  "author": "n-els",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-els/devapi/issues"
+  },
+  "homepage": "https://github.com/n-els/devapi#readme"
+}
